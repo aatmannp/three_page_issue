@@ -1,0 +1,202 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.index {
+  font-family: "Garamond";
+  margin: 0px;
+  padding: 0px;
+  background-color: #F2EBD9;
+  background-image: url('head.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.pages{
+  font-family: "Garamond";
+  margin: 0px;
+  padding: 0px;
+  background-color: #F2EBD9;
+  background-repeat: no-repeat;
+}
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.tabs {
+  position: fixed;
+  height: 50px;
+  width: 100vw;
+  text-align: left;
+  line-height: 50px;
+  background-color: rgba(128, 0, 0,0.5);
+  font-family: "Garamond";
+  font-style: italic;
+}
+
+
+.tabs a:hover {
+  color: #A52A2A;
+}
+
+
+a, a:visited, a:active {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #fff;
+  font-size: 20px;
+}
+
+a:active {
+  color: #000;
+}
+
+.main{
+  color: #000;
+  margin-top: -100px;
+  font-family: "Garamond";
+  font-size: 50px;
+}
+
+.types{
+  color: darkred;
+  margin-top: 50px;
+  font-family: "Garamond";
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+
+
+#spanned{
+  letter-spacing: 10px;
+  text-align: center;
+  font-family: "Garamond";
+  font-size: 20px;
+}
+
+
+.sectionOne {
+  padding-top: 1000px;
+}
+
+.sectionTwo{
+  padding-top: 100px;
+}
+
+.content{
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.sub {
+  font-family: "Garamond";
+  font-size: 30pt;
+  margin-top: 100px;
+  margin-bottom: 64px;
+}
+
+
+p {
+  font-size: 22pt;
+}
+
+.images {
+  margin-top: -10px;
+  display: flex;
+  justify-content: space-between;
+  width: 31%;
+}
+
+.information {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Garamond";
+  font-size: 20px;
+  font-weight: 2px;
+  line-height: 50px;
+}
+
+.reverse{
+  display: flex;
+  justify-content: space-between;
+  text-align: right;
+  padding-left: 10px;
+  padding-right: 10px;
+  align-content: right;
+  font-family: "Garamond";
+  font-size: 20px;
+  font-weight: 2px;
+  line-height: 50px;
+}
+}
+
+
+.side{
+  display: inline-block;
+}
+
+.caption{
+  font-size: 15px;
+  text-align: center;
+
+}
+
+
+.layout{
+  padding-top: 100px;
+  padding-left: 30px;
+}
+
+#history{
+  font-size: 75px;
+  color: darkred;
+  text-align: right;
+  padding-right: 50px;
+}
+
+#million{
+  font-size: 100px;
+  color: darkred;
+  text-align: left;
+  padding-left: 30px;
+}
+
+
+#cite{
+  font-size: 60px;
+  color: darkred;
+  text-align: center;
+}
+
+#links{
+  color: #000;
+  line-height: 50px;
+}
+
+#donation{
+  text-align: center;
+  font-size: 20px;
+  font-family: "Garamond";
+  color: #000;
+  padding-bottom: 30px;
+}
+
+#back{
+  background-color: rgba(220,0,12,0.2) ;
+}
+
+#right{
+  text-align: right;
+  padding-right: 20px;
+  font-size: 20px;
+  background-color: rgba(220,0,12,0.2);
+  width: 50%;
+  margin-left: 650px ;
+  margin-top: -250px;
+}
