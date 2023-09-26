@@ -111,6 +111,7 @@ p {
   display: flex;
   justify-content: space-between;
   width: 31%;
+  object-fit: cover;
 }
 
 .information {
